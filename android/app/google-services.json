@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113389600913",
+    "project_id": "epic-recipe-app",
+    "storage_bucket": "epic-recipe-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113389600913:android:f5d0484f87ed3c0361ff30",
+        "android_client_info": {
+          "package_name": "com.example.epic_recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7didikc2v4LrqSveFpwfusKglWeEYY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
