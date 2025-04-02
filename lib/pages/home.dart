@@ -6,7 +6,7 @@ class Home extends StatefulWidget {
   @override
   State<Home> createState() => _HomeState();
 }
-
+//Iniciando el proyecto
 class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
             borderRadius: BorderRadius.circular(10)),
             width: MediaQuery.of(context).size.width,
             child: TextField(
-              decoration: InputDecoration(border: InputBorder.none),
+              decoration: InputDecoration(border: InputBorder.none, suffixIcon: Icon(Icons.search_outlined)), 
             ),
           )
       ],),),
