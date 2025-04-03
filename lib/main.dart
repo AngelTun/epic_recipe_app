@@ -1,4 +1,4 @@
-import 'package:epic_recipe_app/pages/home.dart';
+import 'package:epic_recipe_app/pages/add_recipe.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Home()
+      home: AddRecipe()
     );
   }
 }
