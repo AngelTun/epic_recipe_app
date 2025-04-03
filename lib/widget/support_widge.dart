@@ -9,4 +9,9 @@ class AppWidget{
       fontWeight: FontWeight.bold
     );
   }
+  static TextStyle lightfeildtextstyle()
+  {
+    return TextStyle(
+      color: Colors.black, fontSize: 16.0, fontWeight: FontWeight.w500);
+  }
 }
